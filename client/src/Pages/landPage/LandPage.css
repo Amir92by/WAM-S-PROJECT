@@ -1,0 +1,29 @@
+.container-profil{
+    display: flex;
+    flex-direction: column;
+    background: #A4A49D;
+    background: -moz-linear-gradient(top, #A4A49D 0%, #7687A4 50%, #6692C5 100%);
+    background: -webkit-linear-gradient(top, #A4A49D 0%, #7687A4 50%, #6692C5 100%);
+    background: linear-gradient(to bottom, #A4A49D 0%, #7687A4 50%, #6692C5 100%); 
+
+    background: #FF2144;
+    background: -moz-linear-gradient(45deg, #FF2144 0%, #1C6EA4 50%, #000000 100%);
+    background: -webkit-linear-gradient(45deg, #FF2144 0%, #1C6EA4 50%, #000000 100%);
+    background: linear-gradient(45deg, #FF2144 0%, #1C6EA4 50%, #000000 100%);
+    
+    /* background-image: url('../../assets/cover3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
+
+
+}
+
+
+
+
+
+ /* .wrapper-thread {
+border: 2px solid goldenrod;
+width: 100%;
+} */

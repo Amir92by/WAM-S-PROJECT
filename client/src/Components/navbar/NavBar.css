@@ -1,0 +1,50 @@
+
+
+.nabbar .Btn{
+    
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 5px 15px;
+}
+.nabbar .Btn:hover {
+    background-color:rgb(73, 69, 69);
+    /* background-color:#E52A50; */
+    border-radius: 10px 100px;
+    transition: all 0.7s;
+    color: #fff;
+}
+
+.logo{
+    height: 40px;
+    width: 40px;
+    margin-left: 0px;
+    background-color: #b6b5d6;
+    border-radius: 90%;
+}
+
+.sign{
+   
+    
+    display: flex ;
+    flex-direction: row ;
+    
+}
+/* .Btn{
+    margin-left: 20px !important;
+    
+} */
+.nabbar{
+    border-bottom: 3px solid royalblue !important;
+    height: 55px;
+    /********/
+    /* position: fixed;
+    width: 100%; */
+}
+
+.searchInput{
+    /* border: 2px solid red; */
+    margin-right: 20px;
+}
+
